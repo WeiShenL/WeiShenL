@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there! Welcome to my profile!
+
+My name is Lo Wei Shen. I currently studying in Singapore Management University, Bachelor of Science (Information Systems).
